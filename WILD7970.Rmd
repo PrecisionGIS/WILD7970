@@ -1,0 +1,65 @@
+---
+title: "Assignments WILD 7970"
+author: "Swati Singh"
+date: "2023-09-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+Assignment 1
+
+ChatGPT: five priorities for research
+Eva A. M. van Dis, Johan Bollen, Willem Zuidema, Robert van Rooij & Claudi L. Bockting*
+
+This article discusses the impact of ChatGPT in the field of science and research. It is a Large Language Model (LLM), which after training on large datasets can generate sophisticated outputs like, talk summarization, literature draft, computer coding, and statistical analysis. Although it has the potential to revolutionize research practices and publication, it remains a matter of serious concern that needs to be considered. The first point of discussion is reducing the quality and transparency of research and fundamentally altering human autonomy.
+According to the authors, the use of this technology is inevitable, so banning it will not work. It is imperative that the research community engages in debate about the implications of this potentially disruptive technology. To improve it, they have outlined the following five major issues:
+
+(a)	Hold on to human verification: Emphasizing the importance of accountability in science, human verification is critical to maintaining the credibility of research for LLM use.
+(b)	Develop rules for accountability: AI-generated content is difficult to detect, but integrity is key. Research articles/drafts should clearly state their use and publishers/funding authorities must lay down clear rules.
+(c)	Invest in truly open LLMs: Ethical concerns arise from big companies’ secrets, which is a problem. To solve this, we need to create AI that's open for everyone. Non-profit groups, schools, and big tech companies should work together to make this happen. It will make AI better and transparent.
+(d)	Embrace the benefits of AI: Incorporating AI into education and research can be a good thing. However, it can replace some of human skill and creativity in research. Still, there is potential to work together and achieve greater progress. It is important for policy makers to discuss the balance to accelerate research and sustain human inputs.
+(e)	Widen the debate: It is important to foster practical engagement, create an international platform for responsible use, and examine impacts on research diversity and inequalities. Balancing these opportunities and challenges will help protect the fundamental principles of scientific inquiry.
+
+
+
+Assignment 2
+
+Equitable hiring strategies towards a diversified faculty
+
+The article explores equitable hiring strategies aimed at diversifying faculty in academia. A diverse faculty is critical to inclusive education, diverse perspectives, and combating academic inequity. This study examines the strategies, their implementation, and their impact on faculty diversity. To achieve this, the study combines quantitative analysis of hiring data, interviews with teachers’ administrators, and collecting data from multiple institutions and evaluating contracting practices over time.
+In this context, I think it would be an ideal approach to conduct a comprehensive study on this topic to examine the strategies and their impacts on effective diversity. To accomplish this objective, mixed methods of quantitative analysis should be adopted. As faculty hiring practices shift to diversify the professoriate, the call is essential because it underscores the urgency of the issue, provides concrete leadership for needed changes, protects equity, and accountability, while ensuring that institutions take steps toward a diverse and inclusive faculty. 
+
+Assignment 3
+
+How scientists fool themselves – and how they can stop
+
+How scientists fool themselves – and how they can stop
+The main keywords of this article are reproducibility crisis, scientific research, data analysis, cognitive bias. Reproducibility concerns arise primarily due to inconsistent replication of scientific findings. Discussion on this topic began in 2015 and is still a major topic of concern today, with a great need for all of us to be accountable for maintaining research integrity and transparency. 
+Cognitive Biases and Research Pitfalls are the main contributors to this topic. Cognitive biases are systematic patterns of deviation from norm or rationality in judgment, they significantly impact research practices and outcomes. This can be mainly understood in the following points:
+Academic Competition: Intense competition in academia fuels the pursuit of statistically significant results (p < 0.05).
+Complex Data: Challenges for statistical analysis. 
+Research Integrity: Trying too hard to find stronger connections in data.
+Research Pitfalls: 
+Hypothesis Myopia: Focusing on one hypothesis, ignoring contrary evidence.
+Texas Sharpshooter Fallacy: Choosing only the data that fits what you already think or believe.
+Asymmetric Attention: Scrutinizing unexpected results more rigorously.
+Just-So Storytelling: Crafting post-hoc explanations that may explain nothing.
+JARKing (Justifying After Results are Known): Using creative language to make non-significant results seem significant.
+To prevent reproducibility crisis in research and academia, we have to consider the following aspects; Promoting transparency, cognitive biases, robust inference, registered reporting, adversarial collaboration, and blind data analysis in science.
+
+
