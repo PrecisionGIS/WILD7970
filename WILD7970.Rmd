@@ -48,7 +48,6 @@ Assignment 3
 
 How scientists fool themselves – and how they can stop
 
-How scientists fool themselves – and how they can stop
 The main keywords of this article are reproducibility crisis, scientific research, data analysis, cognitive bias. Reproducibility concerns arise primarily due to inconsistent replication of scientific findings. Discussion on this topic began in 2015 and is still a major topic of concern today, with a great need for all of us to be accountable for maintaining research integrity and transparency. 
 Cognitive Biases and Research Pitfalls are the main contributors to this topic. Cognitive biases are systematic patterns of deviation from norm or rationality in judgment, they significantly impact research practices and outcomes. This can be mainly understood in the following points:
 Academic Competition: Intense competition in academia fuels the pursuit of statistically significant results (p < 0.05).
