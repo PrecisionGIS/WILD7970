@@ -9,6 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<mark> Swati, you can delete lines 13-23. Ani
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
@@ -35,9 +37,11 @@ According to the authors, the use of this technology is inevitable, so banning i
 (d)	Embrace the benefits of AI: Incorporating AI into education and research can be a good thing. However, it can replace some of human skill and creativity in research. Still, there is potential to work together and achieve greater progress. It is important for policy makers to discuss the balance to accelerate research and sustain human inputs.
 (e)	Widen the debate: It is important to foster practical engagement, create an international platform for responsible use, and examine impacts on research diversity and inequalities. Balancing these opportunities and challenges will help protect the fundamental principles of scientific inquiry.
 
+<mark> Use three dashes to separate your weekly reports. Also you can use three ### before your headers as I have done for Assignment 2 below. Ani
 
+---
 
-Assignment 2
+### Assignment 2
 
 Equitable hiring strategies towards a diversified faculty
 
@@ -48,6 +52,7 @@ Assignment 3
 
 How scientists fool themselves – and how they can stop
 
+How scientists fool themselves – and how they can stop
 The main keywords of this article are reproducibility crisis, scientific research, data analysis, cognitive bias. Reproducibility concerns arise primarily due to inconsistent replication of scientific findings. Discussion on this topic began in 2015 and is still a major topic of concern today, with a great need for all of us to be accountable for maintaining research integrity and transparency. 
 Cognitive Biases and Research Pitfalls are the main contributors to this topic. Cognitive biases are systematic patterns of deviation from norm or rationality in judgment, they significantly impact research practices and outcomes. This can be mainly understood in the following points:
 Academic Competition: Intense competition in academia fuels the pursuit of statistically significant results (p < 0.05).
