@@ -48,7 +48,7 @@ Equitable hiring strategies towards a diversified faculty
 The article explores equitable hiring strategies aimed at diversifying faculty in academia. A diverse faculty is critical to inclusive education, diverse perspectives, and combating academic inequity. This study examines the strategies, their implementation, and their impact on faculty diversity. To achieve this, the study combines quantitative analysis of hiring data, interviews with teachers’ administrators, and collecting data from multiple institutions and evaluating contracting practices over time.
 In this context, I think it would be an ideal approach to conduct a comprehensive study on this topic to examine the strategies and their impacts on effective diversity. To accomplish this objective, mixed methods of quantitative analysis should be adopted. As faculty hiring practices shift to diversify the professoriate, the call is essential because it underscores the urgency of the issue, provides concrete leadership for needed changes, protects equity, and accountability, while ensuring that institutions take steps toward a diverse and inclusive faculty. 
 
-Assignment 3
+### Assignment 3
 
 How scientists fool themselves – and how they can stop
 
@@ -67,3 +67,4 @@ JARKing (Justifying After Results are Known): Using creative language to make no
 To prevent reproducibility crisis in research and academia, we have to consider the following aspects; Promoting transparency, cognitive biases, robust inference, registered reporting, adversarial collaboration, and blind data analysis in science.
 
 
+<mark> These are great summaries, Swati. Going forward, give us a bit more about what you specifically learned and or took away from the class discussion. Give us a bit of analysis, tell us your personal thoughts, and show us that you are critically thinking about these issues. How will you use AI going forward? Where do you draw the line? What are your thoughts on the value and role of the diversity statement in hiring? To be clear, I don't need you to go back and make any edits, I just want to give you some food for thought for future entries. - Jonathon
