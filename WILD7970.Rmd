@@ -79,3 +79,9 @@ Pharmaceutical research directly impacts human health and well-being by discover
 
 <mark> Easier said than done, unfortunately, but I totally agree. - Jonathon
 
+### Assignment 5
+Title: Citizen science in environmental and ecological sciences
+Dilek Fraisl, Gerid Hager, Baptiste Bedessem, Margaret Gold, Pen-Yuan Hsing, Finn Danielsen, Colleen B. Hitchcock, Joseph M. Hulbert, Jaume Piera, Helen Spiers, Martin Thiel & Mordechai 
+
+Citizen science is when ordinary people, not just scientists, help do research by collecting data. This approach makes science more accessible and involves more people in understanding the environment. However, we must ensure that the data collected is accurate and consider ethical issues for citizen science to work effectively. With the right support and collaboration, citizen science can be a powerful tool for learning and protecting our world.
+Let's take an example of precision farming, farmers become citizen scientists, actively contributing to agricultural practices and environmental protection. They receive training and tools from local organizations and universities to collect precise data on soil, weather, crops, and resource usage. This collaborative effort not only redefines farming, but also exemplifies how citizen science empowers communities while ensuring sustainable agricultural practices. 
