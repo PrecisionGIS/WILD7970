@@ -86,6 +86,6 @@ Dilek Fraisl, Gerid Hager, Baptiste Bedessem, Margaret Gold, Pen-Yuan Hsing, Fin
 Citizen science is when ordinary people, not just scientists, help do research by collecting data. This approach makes science more accessible and involves more people in understanding the environment. However, we must ensure that the data collected is accurate and consider ethical issues for citizen science to work effectively. With the right support and collaboration, citizen science can be a powerful tool for learning and protecting our world.
 Let's take an example of precision farming, farmers become citizen scientists, actively contributing to agricultural practices and environmental protection. They receive training and tools from local organizations and universities to collect precise data on soil, weather, crops, and resource usage. This collaborative effort not only redefines farming, but also exemplifies how citizen science empowers communities while ensuring sustainable agricultural practices. 
 
-###Assignment: R Shiny
+###Assignment: R Shiny app
 
 In the last class, we learned about R Shiny apps, which are great for making interactive web apps to share information easily.
