@@ -84,7 +84,7 @@ Title: Citizen science in environmental and ecological sciences
 Dilek Fraisl, Gerid Hager, Baptiste Bedessem, Margaret Gold, Pen-Yuan Hsing, Finn Danielsen, Colleen B. Hitchcock, Joseph M. Hulbert, Jaume Piera, Helen Spiers, Martin Thiel & Mordechai 
 
 Citizen science is when ordinary people, not just scientists, help do research by collecting data. This approach makes science more accessible and involves more people in understanding the environment. However, we must ensure that the data collected is accurate and consider ethical issues for citizen science to work effectively. With the right support and collaboration, citizen science can be a powerful tool for learning and protecting our world.
-Let's take an example of precision farming, farmers become citizen scientists, actively contributing to agricultural practices and environmental protection. They receive training and tools from local organizations and universities to collect precise data on soil, weather, crops, and resource usage. This collaborative effort not only redefines farming, but also exemplifies how citizen science empowers communities while ensuring sustainable agricultural practices. 
+Let's take an example of precision farming, farmers become citizen scientists, actively contributing to agricultural practices and environmental protection. They receive training and tools from local organizations and universities to collect precise data on soil, weather, crops, and resource usage. This collaborative effort not only redefines farming but also exemplifies how citizen science empowers communities while ensuring sustainable agricultural practices. 
 
 <mark> Certainly a useful tool, but dangerous as well when the limitations are not fully appreciated. - Jonathon
 
@@ -92,3 +92,12 @@ Let's take an example of precision farming, farmers become citizen scientists, a
 ### Assignment: R Shiny app
 
 In the last class, we learned about R Shiny apps, which are great for making interactive web apps to share information easily.
+
+### Assignment 6
+When are hypotheses useful in ecology and evolution?
+
+The article discusses the role of research hypotheses in the field of ecology and evolution. The prevalence and use of hypotheses in scientific studies, as well as their effects on the reproducibility and understanding of natural patterns, are examined by the authors. They discuss that hypotheses serve as an important tool to reduce bias and promote reproducibility. However, the authors note that despite the potential benefits, the prevalence of hypotheses in eco-evolutionary research is relatively low (ranging from 6.7% to 26%). The article is interesting because it challenges common reasons for not using hypotheses in ecological and evolutionary research. It argues that despite limited knowledge or complexity of ecology, hypotheses are important for understanding complex ecological problems. The article also emphasizes that important discoveries are not possible without hypotheses and encourages their use at various levels of research. It cautions against relying too heavily on predictive models, emphasizing the need to understand how things work in ecological and evolutionary studies. 
+In science, hypotheses are considered crucial for guiding research and ensuring it's based on evidence. However, they can sometimes limit exploration, potentially causing researchers to miss unexpected discoveries.
+
+
+
