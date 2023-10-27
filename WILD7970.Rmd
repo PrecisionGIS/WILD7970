@@ -122,4 +122,14 @@ In my opinion, preregistration can benefit research in numerous ways. Its main b
 <mark>Ah ha!  We have a pre-registration believer in our midst!  Or has your mind changed after discussion today? If you end up trying this out, I'd love to hear about your experiences. - Jonathon
 # Yesterday's class had an important discussion. I learned about 'pre-registration,' which seems like a great solution to many research problems. But hearing some personal experience and challenges with it made me a bit nervous. Still, I'm interested in trying it out in the future (Not Now).
 
+### Assignment 9
+Nobel and novice: Author prominence affects peer review
+
+This study was pre-registered (Open Science Framework (OSF)), and approved by Elsevier (ref. IJsbrand Jan Aalbersberg, Senior Vice President of Research Integrity), the publisher of JBEF, and by the institutional review boards of the University of Graz (39/126/63 ex 2020/21) and the University of Innsbruck (13/2021).
+Huber et al. conducted a comprehensive review involving 534 evaluation reports of the same manuscript, aimed at investigating potential biases in the peer review process. They wanted to see if there was any bias in how reviewers treated the paper based on the author's reputation. The authors used different scenarios, like having a well-known author, a not-so-famous author, or no author's name mentioned. What they found was that when the paper had a famous author, more reviewers agreed to review it, and they were more likely to give it a positive response/review. This suggests that reviewers tend to favor papers from famous authors, which is like the “halo effect.” The study supports the idea of keeping author identities hidden during peer review to reduce this bias and encourage diversity in academic publishing.
+In my opinion, the research and publication landscape can be quite challenging, especially for students and scholars from various backgrounds, like me. One of the most significant hurdles is the publication process, which often feels like a complex and biased system. I believe that blind review, where the author's identity is hidden, is a crucial solution. It ensures that everyone has an equal chance to be heard and that their work is evaluated solely based on its quality, rather than their name or reputation. This approach is essential in providing a fair platform for all researchers, particularly those who may face biases based on their background or affiliation.
+
+
+
+
 
