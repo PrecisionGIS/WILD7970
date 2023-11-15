@@ -140,4 +140,9 @@ In my view, it's essential to know your audience. Science communicators should u
 
 <mark>Whether we excel at it or not, we're going to have to learn to communicate with the general public if we want to get the information out. - Jonathon
 
+### Assignment 11
+Evidence for a mental health crisis in graduate education
+
+Mental health issues in graduate students can stem from factors like academic pressure, work–life imbalance, financial stress, and uncertain career prospects. Insufficient support systems and stigma around mental health in academia contribute to the challenges these students face.
+This article highlights the deteriorating mental health crisis among graduate students globally. Based on a survey of over 2,000 students from 26 countries, it reveals that graduate students are six times more likely to experience anxiety and depression compared to the general population. The study emphasizes the need for a better understanding of these issues and effective interventions. Factors such as gender, mentorship, and work–life balance significantly contribute to mental health struggles. The authors encourage for a "train-the-trainers" approach to educate faculty, emphasize the importance of work–life balance, and call for a cultural shift in academia to address the stigma surrounding mental health. The study concludes with a plea for further research and the establishment of mental health resources for graduate students.
 
